@@ -26,7 +26,7 @@ def imprimir():
 for i in persona:
     persona[i]=input(f"Ingrese su {i} :")
 
-imc=round(float(persona["Peso (en Kg)"]) / (float(persona["Altura (en Mts)"])**2),5)
+imc=round(float(persona["Peso (en Kg)"]) / (float(persona["Altura (en Mts)"])**2),2)
 
 persona["IMC"]=imc
 
