@@ -18,3 +18,5 @@ Translation:
 "Peso Normal" means Normal weight. 
 "Sobrepeso" means Overweight.
 "Obesidad" means Obesity.  
+
+Colaboradores: Cola274.
