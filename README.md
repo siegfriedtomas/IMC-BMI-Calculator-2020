@@ -19,4 +19,4 @@ Translation:
 "Sobrepeso" means Overweight.
 "Obesidad" means Obesity.  
 
-Colaboradores: Cola274.
+Colaboradores: Cola274 - brunobenedetti - Lennon2727
